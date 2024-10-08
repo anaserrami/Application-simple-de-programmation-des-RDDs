@@ -116,11 +116,13 @@ public class App2 {
 ```
 
 3. Copier ventes.txt et le jar dans le conteneur spark-master :
+
 ![img.png](assets/img.png)
 ![img_1.png](assets/img_1.png)
 ![img_2.png](assets/img_2.png)
 
 4. Test avec la list des ventes
+
 ![img_3.png](assets/img_3.png)
 
 
