@@ -27,11 +27,11 @@ Dans ce travail, nous allons travailler avec les RDDs (Resilient Distributed Dat
 ### Configuration
 - Cloner le dépôt git :
 ```
-git clone 
+git clone https://github.com/anaserrami/Application-simple-de-programmation-des-RDDs
 ```
 - Accéder au répertoire du projet :
 ```
-cd 
+cd Application-simple-de-programmation-des-RDDs
 ```
 
 ### Démarrer le docker compose :
